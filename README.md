@@ -49,7 +49,7 @@ npm run scss-e
 
 ## Security
 
-If you discover a security vulnerability regarding LiderApp, please email the team via rmacielb3@gmail.com. All security vulnerabilities will be addressed immediately.
+If you discover a security vulnerability regarding login-sass, please email the team via rmacielb3@gmail.com. All security vulnerabilities will be addressed immediately.
 
 ## License
 
