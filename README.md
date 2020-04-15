@@ -47,6 +47,14 @@ npm run scss-e
 
 <br/>
 
+
+## Preview 
+<p align="center">
+    <img align="center" style="max-width:100%;" src="https://raw.githubusercontent.com/rickymaciel/login-sass/master/img/login.PNG"/>
+</p>
+
+<br/>
+
 ## Security
 
 If you discover a security vulnerability regarding login-sass, please email the team via rmacielb3@gmail.com. All security vulnerabilities will be addressed immediately.
